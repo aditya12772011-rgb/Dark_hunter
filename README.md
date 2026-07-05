@@ -22,3 +22,4 @@ Step 3: Enter Target URL
 When prompted with Enter URL::, type the full address of the target website (e.g., https://example.com) and hit enter. The tool will display all gathered information sequentially within seconds.
 
 join with me in YouTube cyberhack tech 
+##Use FOR EDUCATIONAL purposes only##
